@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1384817315 source:/Users/skyblue/Documents/CodeBlocks/OLED-M88/fuse.c
+	<avr/io.h>
+
+1384817519 source:/Users/skyblue/Documents/CodeBlocks/OLED-M88/main.c
+	<avr/io.h>
+	<util/delay.h>
+	<avr/pgmspace.h>
+
